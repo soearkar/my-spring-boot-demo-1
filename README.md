@@ -1,14 +1,14 @@
 # my-spring-boot-demo-1
-My Spring Boot Demo 1
+<h1> My Spring Boot Demo 1 </h1>
 
-IDE : Spring Tool Suite
-build : Maven
-JDK : Java 8
-Database : MySQL
+IDE : Spring Tool Suite <br>
+build : Maven <br>
+JDK : Java 8 <br>
+Database : MySQL <br>
 
-Framework : Spring Boot
-Language : Java
+Framework : Spring Boot <br>
+Language : Java <br>
 
-Author : Soe Arkar Kyaw
+Author : Soe Arkar Kyaw <br>
 GitHub : https://github.com/soearkar <br>
 Project GitHub : https://github.com/soearkar/my-spring-boot-demo-1
