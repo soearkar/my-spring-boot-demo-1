@@ -1,5 +1,5 @@
 # my-spring-boot-demo-1
-<h1> My Spring Boot Demo 1 </h1>
+<h3> My Spring Boot Demo 1 </h3>
 
 IDE : Spring Tool Suite <br>
 build : Maven <br>
