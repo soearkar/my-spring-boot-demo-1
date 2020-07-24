@@ -10,5 +10,5 @@ Framework : Spring Boot
 Language : Java
 
 Author : Soe Arkar Kyaw
-GitHub : https://github.com/soearkar
+GitHub : https://github.com/soearkar <br>
 Project GitHub : https://github.com/soearkar/my-spring-boot-demo-1
