@@ -17,9 +17,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.sakk.mydemo.sboot.entity.Student;
 import com.sakk.mydemo.sboot.model.StudentDTO;
 import com.sakk.mydemo.sboot.service.StudentService;
-import com.sakk.mydemo.sboot.util.CommonConstant.LoginStatus;
-import com.sakk.mydemo.sboot.util.CommonConstant.MessageStatus;
 import com.sakk.mydemo.sboot.util.ApiResponse;
+import com.sakk.mydemo.sboot.util.CommonConstant.MessageStatus;
 
 @RestController
 @RequestMapping("/v1/student")
