@@ -20,7 +20,7 @@ import com.sakk.mydemo.sboot.service.StudentService;
 import com.sakk.mydemo.sboot.util.ApiResponse;
 import com.sakk.mydemo.sboot.util.CommonConstant.MessageStatus;
 
-@RestController
+@RestController 
 @RequestMapping("/v1/student")
 public class StudentController extends MainController{
 	@Autowired
